@@ -166,4 +166,5 @@ else{
     write("Triangel: Nej") 
 }
 */
+
 export {}
